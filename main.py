@@ -25,7 +25,7 @@ def main(): # Main point
             if prompt == "AboutTerminal":
                 print("AlphabetTermux - simple terminal")
                 print("GPL-3 license! Open-software.")
-                print("Github: ")
+                print("Github: https://github.com/lev445/AlphabetTermux")
                 print("Version: v0.1-beta")
                 continue
             if prompt.strip().startswith("cd "): # Checking cd
